@@ -9,24 +9,24 @@
 ## 图片展示
 
 ### 开启页面
-![首页](Screenshot_2018-06-11-10-59-37.png)
+<img src="Screenshot_2018-06-11-10-59-37.png" width = "200" height = "400" alt="首页" />
 
 ### 首页
-<img src="Screenshot_2018-06-11-11-00-58.png" width = "200" height = "80" alt="首页" />
-<img src="Screenshot_2018-06-11-11-01-19.png" width = "200" height = "80" alt="首页" />
+<img src="Screenshot_2018-06-11-11-00-58.png" width = "200" height = "400" alt="首页" />
+<img src="Screenshot_2018-06-11-11-01-19.png" width = "200" height = "400" alt="首页" />
 
 点击进入后:
 
-<img src="Screenshot_2018-06-11-11-01-31.png" width = "200" height = "80" alt="首页" />
-<img src="Screenshot_2018-06-11-11-01-34.png" width = "200" height = "80" alt="首页" />
+<img src="Screenshot_2018-06-11-11-01-31.png" width = "200" height = "400" alt="首页" />
+<img src="Screenshot_2018-06-11-11-01-34.png" width = "200" height = "400" alt="首页" />
 
 ### 视频
-<img src="Screenshot_2018-06-11-11-01-47.png" width = "200" height = "80" alt="首页" />
-<img src="Screenshot_2018-06-11-11-01-52.png" width = "200" height = "80" alt="首页" />
+<img src="Screenshot_2018-06-11-11-01-47.png" width = "200" height = "400" alt="首页" />
+<img src="Screenshot_2018-06-11-11-01-52.png" width = "200" height = "400" alt="首页" />
 
 ### 暨南头条
-<img src="Screenshot_2018-06-11-11-02-02.png" width = "200" height = "80" alt="首页" />
+<img src="Screenshot_2018-06-11-11-02-02.png" width = "200" height = "400" alt="首页" />
 
 ### 我的
-<img src="Screenshot_2018-06-11-11-02-11.png" width = "200" height = "80" alt="首页" />
-<img src="Screenshot_2018-06-11-11-02-27.png" width = "200" height = "80" alt="首页" />
+<img src="Screenshot_2018-06-11-11-02-11.png" width = "200" height = "400" alt="首页" />
+<img src="Screenshot_2018-06-11-11-02-27.png" width = "200" height = "400" alt="首页" />
